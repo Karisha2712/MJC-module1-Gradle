@@ -14,11 +14,6 @@ dependencies {
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.2'
 }
 
-java {
-    sourceCompatibility = 8
-    targetCompatibility = 8
-}
-
 test {
     useJUnitPlatform()
 }
