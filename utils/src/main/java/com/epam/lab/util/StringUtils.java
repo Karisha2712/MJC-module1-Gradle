@@ -1,4 +1,4 @@
-package com.epam.labs.util;
+package com.epam.lab.util;
 
 import org.apache.commons.lang3.math.NumberUtils;
 
